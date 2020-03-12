@@ -4,7 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Demo: 
 
-https://ljc-recipebook.firebaseapp.com/
 
 
 ## Development server
